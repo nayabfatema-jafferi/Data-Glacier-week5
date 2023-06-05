@@ -1,0 +1,29 @@
+body{
+	font:15px/1.5 Arial, Helvetica,sans-serif;
+	padding: 0px;
+	background-color:#f8dab4;
+	text-align: center;
+}
+
+.recepie{
+	background:#f4e403;
+	text-align: center;
+	height:120px;
+	width:100%;
+	padding-top:30px;
+
+}
+
+
+.ml_recepie{
+    text-align:center;
+    height:100px;
+    width:100%;
+    margin:0px;
+}
+
+.btn-info {background-color: #ffa600;
+	height:40px;
+	width:100px;} 
+.btn-info:hover {background: #eaeff3;}
+
